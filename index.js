@@ -10,7 +10,8 @@ module.exports = {
     ],
     'default-case': [
       'error'
-    ]
+    ],
+    'react/jsx-curly-newline': 0
   },
   env: {
     browser: true
