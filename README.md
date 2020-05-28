@@ -4,7 +4,7 @@ Impact Media's sharable eslint config used in their React projects.
 
 ## Installation
 
-`npm install --save-dev Monsterbilligt/eslint-config-impact-react eslint eslint-plugin-import eslint-plugin-node eslint-plugin-promise eslint-plugin-react eslint-plugin-standard`
+`npm install --save-dev Monsterbilligt/eslint-config-impact-react#v0.0.1 eslint eslint-plugin-import eslint-plugin-node eslint-plugin-promise eslint-plugin-react eslint-plugin-standard`
 
 Then specify the plugin in `.eslintrc`:
 
