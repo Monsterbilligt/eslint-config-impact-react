@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-impact-react",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Impact Media's sharable eslint config used in their React projects.",
   "main": "index.js",
   "keywords": [],
