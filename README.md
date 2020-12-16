@@ -10,6 +10,6 @@ Then specify the plugin in `.eslintrc`:
 
 ```json
 {
-  "extends": "impact-react"
+  "extends": ["impact-react", "plugin:react/recommended"]
 }
 ```
